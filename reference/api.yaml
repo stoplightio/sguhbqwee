@@ -266,4 +266,5 @@ components:
           x-stoplight:
             id: 37pod9cs1nyxe
       description: edrftegrg
+      x-internal: true
 x-internal: true
