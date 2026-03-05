@@ -1,0 +1,26 @@
+{
+  "name": "sguhbqwee",
+  "description": "",
+  "spectralExtends": [],
+  "extends": [],
+  "formats": [
+    "oas2",
+    "oas3",
+    "oas3.0",
+    "oas3.1"
+  ],
+  "aliases": {},
+  "rules": {
+    ",khjgfcdffgjh": {
+      "id": "3sC-5oUuVjKsmP0W3F99G",
+      "given": [],
+      "severity": "error",
+      "then": {
+        "function": ""
+      },
+      "name": ",khjgfcdffgjh",
+      "message": "jghhvhvh"
+    }
+  },
+  "extendedDefault": false
+}
