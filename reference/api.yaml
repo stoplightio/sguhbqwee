@@ -16,6 +16,21 @@ paths:
   '/users/{userId}':
     parameters:
       - schema:
+          type: string
+        name: userId
+        in: path
+        required: true
+      - schema:
+          type: string
+        name: userId
+        in: path
+        required: true
+      - schema:
+          type: string
+        name: userId
+        in: path
+        required: true
+      - schema:
           type: integer
         name: userId
         in: path
@@ -101,6 +116,27 @@ paths:
         description: Patch user properties to update.
       x-stoplight:
         id: ukl5wgqxdbwvx
+    post:
+      summary: Your POST endpoint
+      tags: []
+      responses: {}
+      operationId: post-users-userId
+      x-stoplight:
+        id: mhbwnuj5unxjz
+    delete:
+      summary: Your DELETE endpoint
+      tags: []
+      responses: {}
+      operationId: delete-users-userId
+      x-stoplight:
+        id: 0ot37qc7mls9x
+    options:
+      summary: Your OPTIONS endpoint
+      tags: []
+      responses: {}
+      operationId: options-users-userId
+      x-stoplight:
+        id: nrqbo46tedvfy
   /user:
     post:
       summary: Create New User
@@ -215,4 +251,19 @@ components:
         - emailVerified
       x-stoplight:
         id: hoyujuson3932
+    dfhgujhigj:
+      title: dfhgujhigj
+      x-stoplight:
+        id: ehhg5ojuqeo23
+      type: object
+      properties:
+        id:
+          type: string
+          x-stoplight:
+            id: 54bb5mbbsbn7c
+        edrff:
+          type: string
+          x-stoplight:
+            id: 37pod9cs1nyxe
+      description: edrftegrg
 x-internal: true
